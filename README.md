@@ -10,11 +10,11 @@
 
 - 📫 How to reach me **your-email@example.com**
 
-- 📄 Know about my experiences [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📄 Know about my experiences [LinkedIn]((https://www.linkedin.com/in/miss-sweety-7425b01a9/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="yourprofile" /></a>
+<a href="https://www.linkedin.com/in/miss-sweety-7425b01a9/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="yourprofile" /></a>
 <a href="https://instagram.com/yourprofile" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="yourprofile" /></a>
 </p>
 
